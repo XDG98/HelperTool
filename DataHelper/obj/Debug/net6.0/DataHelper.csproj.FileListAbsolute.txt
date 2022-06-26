@@ -1,0 +1,12 @@
+F:\C#\My\HelperTool\DataHelper\bin\Debug\net6.0\DataHelper.deps.json
+F:\C#\My\HelperTool\DataHelper\bin\Debug\net6.0\DataHelper.dll
+F:\C#\My\HelperTool\DataHelper\bin\Debug\net6.0\DataHelper.pdb
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.csproj.AssemblyReference.cache
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.AssemblyInfoInputs.cache
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.AssemblyInfo.cs
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.csproj.CoreCompileInputs.cache
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.dll
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\refint\DataHelper.dll
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\DataHelper.pdb
+F:\C#\My\HelperTool\DataHelper\obj\Debug\net6.0\ref\DataHelper.dll

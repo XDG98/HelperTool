@@ -1,0 +1,12 @@
+F:\C#\My\HelperTool\RandomHelper\bin\Debug\net6.0\GenerateHelper.deps.json
+F:\C#\My\HelperTool\RandomHelper\bin\Debug\net6.0\GenerateHelper.dll
+F:\C#\My\HelperTool\RandomHelper\bin\Debug\net6.0\GenerateHelper.pdb
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.csproj.AssemblyReference.cache
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.AssemblyInfoInputs.cache
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.AssemblyInfo.cs
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.csproj.CoreCompileInputs.cache
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.dll
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\refint\GenerateHelper.dll
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\GenerateHelper.pdb
+F:\C#\My\HelperTool\RandomHelper\obj\Debug\net6.0\ref\GenerateHelper.dll

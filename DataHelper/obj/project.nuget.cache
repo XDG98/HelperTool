@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsZ8fLljVL86ojDu227YiT8uaxT6sPcP2id7iM2uFzsqKk+DJ6UOxlHuGaFPYqDV2T+6N6fX6cGGMIJWWDBrWA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\My\\HelperTool\\DataHelper\\DataHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\98033\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
