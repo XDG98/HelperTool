@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelperTool.GenerateHelper
+namespace GenerateHelper
 {
     /// <summary>
     /// 随机中文汉字

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConfigurationHelper</id>
+    <version>1.0.0</version>
+    <authors>xdg</authors>
+    <description>appsettings.json配置文件读写辅助类，支持热加载，</description>
+    <copyright>xdg</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.dll" target="lib\net6.0\ConfigurationHelper.dll" />
+    <file src="F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.xml" target="lib\net6.0\ConfigurationHelper.xml" />
+  </files>
+</package>

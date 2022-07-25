@@ -1,6 +1,7 @@
 F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.deps.json
 F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.dll
 F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.pdb
+F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.xml
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.csproj.AssemblyReference.cache
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.GeneratedMSBuildEditorConfig.editorconfig
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.AssemblyInfoInputs.cache
@@ -8,5 +9,6 @@ F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.AssemblyInf
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.csproj.CoreCompileInputs.cache
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.dll
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\refint\ConfigurationHelper.dll
+F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.xml
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ConfigurationHelper.pdb
 F:\C#\My\HelperTool\AppSettings\obj\Debug\net6.0\ref\ConfigurationHelper.dll

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XDG.ConfigurationHelper</id>
+    <version>1.0.0</version>
+    <authors>xdg</authors>
+    <icon>icon-config.png</icon>
+    <description>Helps configure file read and write operations and supports hot loading</description>
+    <releaseNotes>This version supports single-configuration reads, as well as multi-configuration reads, single-configuration modifications, and multi-configuration modifications.</releaseNotes>
+    <copyright>xdg</copyright>
+    <tags>appsettings.json config configuration helper</tags>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.dll" target="lib\net6.0\ConfigurationHelper.dll" />
+    <file src="F:\C#\My\HelperTool\AppSettings\bin\Debug\net6.0\ConfigurationHelper.xml" target="lib\net6.0\ConfigurationHelper.xml" />
+    <file src="C:\Users\98033\Pictures\Icon\icon-config.png" target="\icon-config.png" />
+  </files>
+</package>

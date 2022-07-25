@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConfigurationHelper</name>
+    </assembly>
+    <members>
+        <member name="T:ConfigurationHelper.AppConfigHelper">
+            <summary>
+            App.config助手
+            </summary>
+        </member>
+        <member name="T:ConfigurationHelper.AppSettingsHelper">
+            <summary>
+            appsettings.json助手
+            </summary>
+        </member>
+        <member name="P:ConfigurationHelper.AppSettingsHelper.Configuration">
+            <summary>
+            配置
+            </summary>
+        </member>
+        <member name="M:ConfigurationHelper.AppSettingsHelper.GetAppSettings(System.String[])">
+            <summary>
+            获取配置文件
+            </summary>
+            <param name="sections">配置</param>
+            <returns></returns>
+        </member>
+        <member name="M:ConfigurationHelper.AppSettingsHelper.GetAppSettings``1(System.String[])">
+            <summary>
+            获取配置文件
+            </summary>
+            <param name="sections">配置</param>
+            <returns></returns>
+        </member>
+        <member name="M:ConfigurationHelper.AppSettingsHelper.GetAppSettings(System.Collections.Generic.Dictionary{System.String,System.String}@)">
+            <summary>
+            获取配置文件
+            </summary>
+            <param name="dataDic">配置</param>
+            <returns></returns>
+        </member>
+        <member name="M:ConfigurationHelper.AppSettingsHelper.SaveAppSettings(System.String,System.String)">
+            <summary>
+            保存配置文件
+            </summary>
+            <param name="key">配置键</param>
+            <param name="value">配置值</param>
+            <returns></returns>
+        </member>
+        <member name="M:ConfigurationHelper.AppSettingsHelper.SaveAppSettings(System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            保存配置文件
+            </summary>
+            <param name="dataDic">配置</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

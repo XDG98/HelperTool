@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Net.Http.Json;
 
-namespace HelperTool.NetWorkHelper
+namespace NetWorkHelper
 {
     public class HttpClienttHelper
     {
@@ -40,5 +40,19 @@ namespace HelperTool.NetWorkHelper
                 throw ex;
             }
         }
+
+        public static async Task<object> Post(string url, Dictionary<string, string> parameterDic)
+        {
+            try
+            {
+                HttpClient httpClient = httpClientFactory.CreateClient();
+                return await httpClient.PostAsJsonAsync<object>(url, parameterDic);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
     }
 }

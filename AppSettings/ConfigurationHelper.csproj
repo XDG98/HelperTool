@@ -4,17 +4,42 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+    <Authors>xdg</Authors>
+    <Version>1.0.1</Version>
+    <Company>xdg</Company>
+    <PackageId>XDG.ConfigurationHelper</PackageId>
+    <Product>ConfigurationHelper</Product>
+    <Description>Helps configure file read and write operations and supports hot loading</Description>
+    <Copyright>xdg</Copyright>
+    <PackageTags>net;appsettings.json;config;configuration;helper</PackageTags>
+    <PackageReleaseNotes>Add generics to get configuration</PackageReleaseNotes>
+    <PackageIcon>icon-config.png</PackageIcon>
   </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\98033\Pictures\Icon\icon-config.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\DataHelper\DataHelper.csproj" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
   </ItemGroup>
 
 </Project>

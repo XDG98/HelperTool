@@ -1,5 +1,4 @@
-﻿using HelperTool.NetWorkHelper;
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +7,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelperTool.NetworkHelper
+namespace NetworkHelper
 {
     /// <summary>
     /// 网络IP
@@ -70,15 +69,5 @@ namespace HelperTool.NetworkHelper
             return ipList;
         }
 
-        /// <summary>  
-        /// 根据IP获取物理地址  
-        /// </summary>  
-        /// <param name="ip">Ip地址</param>  
-        /// <returns></returns>  
-        public static async Task<object> GetIpAddress(string ip)
-        {
-            string url = $"http://ip-api.com/json/{ip}?lang=zh-CN";
-            return await HttpClienttHelper.Get(url);
-        }
     }
 }

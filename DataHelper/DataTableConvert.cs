@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelperTool.DataHelper
+namespace DataHelper
 {
     /// <summary>
     /// DataTable转换
